@@ -1,0 +1,16 @@
+E:\CS263_Homeworks\CS263_Homework\Homework1\Problem1\bin\Debug\Problem1.exe.config
+E:\CS263_Homeworks\CS263_Homework\Homework1\Problem1\obj\Debug\Problem1.csprojResolveAssemblyReference.cache
+E:\CSharp\Homework1\Problem1\bin\Debug\Problem1.exe.config
+F:\CSharp\Homework1\Problem1\bin\Debug\Problem1.exe.config
+F:\CSharp\Homework1\Problem1\bin\Debug\Problem1.exe
+F:\CSharp\Homework1\Problem1\bin\Debug\Problem1.pdb
+F:\CSharp\Homework1\Problem1\bin\Debug\mscorlib.dll
+F:\CSharp\Homework1\Problem1\bin\Debug\zh-Hant\mscorlib.resources.dll
+F:\CSharp\Homework1\Problem1\bin\Debug\normidna.nlp
+F:\CSharp\Homework1\Problem1\bin\Debug\normnfc.nlp
+F:\CSharp\Homework1\Problem1\bin\Debug\normnfd.nlp
+F:\CSharp\Homework1\Problem1\bin\Debug\normnfkc.nlp
+F:\CSharp\Homework1\Problem1\bin\Debug\normnfkd.nlp
+F:\CSharp\Homework1\Problem1\obj\Debug\Problem1.csprojResolveAssemblyReference.cache
+F:\CSharp\Homework1\Problem1\obj\Debug\Problem1.exe
+F:\CSharp\Homework1\Problem1\obj\Debug\Problem1.pdb
