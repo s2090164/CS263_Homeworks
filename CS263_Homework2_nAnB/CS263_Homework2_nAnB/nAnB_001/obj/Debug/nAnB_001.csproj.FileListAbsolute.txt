@@ -1,0 +1,16 @@
+G:\CS263\CS263_Homework2_nAnB\CS263_Homework2_nAnB\nAnB_001\bin\Debug\nAnB_001.exe.config
+G:\CS263\CS263_Homework2_nAnB\CS263_Homework2_nAnB\nAnB_001\bin\Debug\nAnB_001.exe
+G:\CS263\CS263_Homework2_nAnB\CS263_Homework2_nAnB\nAnB_001\bin\Debug\nAnB_001.pdb
+G:\CS263\CS263_Homework2_nAnB\CS263_Homework2_nAnB\nAnB_001\bin\Debug\Lib.dll
+G:\CS263\CS263_Homework2_nAnB\CS263_Homework2_nAnB\nAnB_001\bin\Debug\Lib.pdb
+G:\CS263\CS263_Homework2_nAnB\CS263_Homework2_nAnB\nAnB_001\obj\Debug\nAnB_001.csprojResolveAssemblyReference.cache
+G:\CS263\CS263_Homework2_nAnB\CS263_Homework2_nAnB\nAnB_001\obj\Debug\nAnB_001.exe
+G:\CS263\CS263_Homework2_nAnB\CS263_Homework2_nAnB\nAnB_001\obj\Debug\nAnB_001.pdb
+E:\CS263\CS263_Homework2_nAnB\CS263_Homework2_nAnB\nAnB_001\bin\Debug\nAnB_001.exe.config
+E:\CS263\CS263_Homework2_nAnB\CS263_Homework2_nAnB\nAnB_001\obj\Debug\nAnB_001.exe
+E:\CS263\CS263_Homework2_nAnB\CS263_Homework2_nAnB\nAnB_001\obj\Debug\nAnB_001.pdb
+E:\CS263\CS263_Homework2_nAnB\CS263_Homework2_nAnB\nAnB_001\bin\Debug\nAnB_001.exe
+E:\CS263\CS263_Homework2_nAnB\CS263_Homework2_nAnB\nAnB_001\bin\Debug\nAnB_001.pdb
+E:\CS263\CS263_Homework2_nAnB\CS263_Homework2_nAnB\nAnB_001\bin\Debug\Lib.dll
+E:\CS263\CS263_Homework2_nAnB\CS263_Homework2_nAnB\nAnB_001\bin\Debug\Lib.pdb
+E:\CS263\CS263_Homework2_nAnB\CS263_Homework2_nAnB\nAnB_001\obj\Debug\nAnB_001.csprojResolveAssemblyReference.cache

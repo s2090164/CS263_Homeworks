@@ -1,0 +1,5 @@
+G:\CS263\CS263_Homework2_nAnB\CS263_Homework2_nAnB\Lib\bin\Debug\Lib.dll
+G:\CS263\CS263_Homework2_nAnB\CS263_Homework2_nAnB\Lib\bin\Debug\Lib.pdb
+G:\CS263\CS263_Homework2_nAnB\CS263_Homework2_nAnB\Lib\obj\Debug\Lib.csprojResolveAssemblyReference.cache
+G:\CS263\CS263_Homework2_nAnB\CS263_Homework2_nAnB\Lib\obj\Debug\Lib.dll
+G:\CS263\CS263_Homework2_nAnB\CS263_Homework2_nAnB\Lib\obj\Debug\Lib.pdb
